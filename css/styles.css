@@ -178,6 +178,7 @@
     transition: transform 0.5s;
     position: relative;
     border-radius: 3px;
+    height: 100%;
 }
 
 .my-modal-close-btn {
@@ -255,6 +256,7 @@
 
 .payment-line {
     margin: 0px 20px 15px 20px;
+    padding-top: 80px;
 }
 
 .payment-cost {
